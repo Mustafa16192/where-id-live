@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: "Inter", "Segoe UI", "Roboto Condensed", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
@@ -16,7 +16,8 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background: radial-gradient(circle at 20% 0%, #1e293b, #020617 60%);
+  background: #01050d;
+  overflow: hidden;
 }
 
 #root {
